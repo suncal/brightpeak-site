@@ -1,0 +1,28 @@
+# BrightPeak Ads
+
+> BrightPeak Ads is a Facebook and Instagram (Meta) ads agency based in Flowery Branch, Georgia (Atlanta metro), USA. It audits ad accounts, sets up the Meta Pixel and Conversions API, and manages campaigns for small businesses and e-commerce brands on fixed prices with no long-term contracts.
+
+Key facts:
+- Account Audit: from $150 (one-time). Business Manager, Pixel and Conversions API, campaign structure, audiences, creative; ranked fix list.
+- Setup + Pixel & Conversions API: from $450 (one-time). Business Manager setup, Pixel + CAPI with event deduplication, conversion events, first campaign launch.
+- Monthly Management: from $950 per month. Optimization, creative testing, budget management, weekly updates, monthly report.
+- Fixed fees, not a percentage of ad spend. Ad spend is paid to Meta directly by the client.
+- Month to month, no long-term contract. The client owns the ad account, Pixel and data (agency uses partner access).
+- Works remotely with clients across the US and abroad, during US Eastern business hours.
+- Also offers SEO and AI search audits, email follow-up automation, and lead generation support.
+- Contact: hello@brightpeakads.com (free ad account review).
+
+## Services
+- [Facebook ads management](https://brightpeakads.com/facebook-ads-management/): Done-for-you Facebook and Instagram ads management from $950/month. Campaign optimization, creative testing, weekly updates, no long-term contract.
+- [Facebook ads management pricing](https://brightpeakads.com/facebook-ads-management-pricing/): How much does Facebook ads management cost? Agency pricing models explained, typical ranges, and BrightPeak Ads' fixed prices: audit $150, setup $450, management $950/mo.
+- [Facebook ads audit](https://brightpeakads.com/facebook-ads-audit/): A Meta (Facebook and Instagram) ads account audit from $150: Business Manager, Pixel and Conversions API, campaign structure, audiences and creative, with a ranked fix list.
+- [Meta Conversions API setup](https://brightpeakads.com/meta-conversions-api-setup/): Meta Pixel and Conversions API (CAPI) setup with event deduplication, from $450. Better event match quality and more accurate tracking for Shopify and lead-gen sites.
+- [Instagram ads management](https://brightpeakads.com/instagram-ads-management/): Instagram ads management from $950/month: Reels, Stories and feed ads, creative testing and weekly updates. Fixed pricing, month to month.
+- [Facebook ads agency Atlanta](https://brightpeakads.com/facebook-ads-agency-atlanta/): Atlanta-area Facebook and Instagram ads agency based in Flowery Branch, GA. Meta ads audits from $150, setup from $450, management from $950/month.
+- [Facebook ads for small business](https://brightpeakads.com/facebook-ads-for-small-business/): Facebook and Instagram ads for small businesses: no big budget needed, fixed pricing, no long-term contract. Audit from $150, setup from $450, management from $950/month.
+- [E-commerce Facebook ads](https://brightpeakads.com/ecommerce-facebook-ads/): Facebook and Instagram ads for e-commerce and Shopify stores: Pixel and Conversions API, catalog and Advantage+ shopping campaigns, creative testing. Fixed pricing.
+
+## Reference
+- [FAQ](https://brightpeakads.com/faq/): pricing, contracts, account ownership, Conversions API, Instagram ads.
+- [Free Black Friday Meta ads checklist](https://brightpeakads.com/black-friday-meta-ads-checklist.pdf)
+- [LinkedIn](https://www.linkedin.com/company/brightpeak-ads/)
