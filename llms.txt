@@ -24,5 +24,10 @@ Key facts:
 
 ## Reference
 - [FAQ](https://brightpeakads.com/faq/): pricing, contracts, account ownership, Conversions API, Instagram ads.
+- [About](https://brightpeakads.com/about/): who BrightPeak Ads is, what it does, how it works with clients.
+- [Privacy policy](https://brightpeakads.com/privacy/): analytics, email and client ad account data.
+- [Terms of service](https://brightpeakads.com/terms/): fixed quotes, month-to-month management, ad spend paid to Meta, ownership.
 - [Free Black Friday Meta ads checklist](https://brightpeakads.com/black-friday-meta-ads-checklist.pdf)
 - [LinkedIn](https://www.linkedin.com/company/brightpeak-ads/)
+
+Last updated: 2026-10-29
